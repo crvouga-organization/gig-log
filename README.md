@@ -1,6 +1,6 @@
 # Gig log
 
-[Live site](https://crvouga-organization.github.io/gig-log/)
+[Live site](https://crvouga.github.io/gig-log/)
 
 Edit `gigs.yaml` directly. Keep records oldest to newest. Each record supports links, entity references, tags, and notes. This is the only gig data file; no syncing or generated data.
 
